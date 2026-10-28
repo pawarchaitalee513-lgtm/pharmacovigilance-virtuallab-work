@@ -1,1 +1,0 @@
-# pharmacovigilance-virtuallab-work

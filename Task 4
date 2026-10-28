@@ -1,0 +1,144 @@
+. Classification of the five cases
+The following table transcribes the visible image and explains the clinical significance of each case.
+
+No.
+
+Drug and adverse reaction
+
+Seriousness
+
+Expectedness shown in image
+
+Clinical assessment
+
+1
+
+Amoxicillin — skin rash and itching
+
+Non-serious
+
+Expected
+
+Usually non-serious if limited to mild skin symptoms. Assess urgently if there is breathing difficulty, facial swelling, or other evidence of anaphylaxis.
+
+2
+
+Ibuprofen — gastrointestinal bleeding requiring hospitalization
+
+Serious
+
+Expected
+
+Serious because hospitalization is required. Gastrointestinal bleeding can cause substantial blood loss and requires prompt medical assessment.
+
+3
+
+Metformin — lactic acidosis
+
+Serious
+
+Unexpected
+
+Potentially life-threatening and requires urgent treatment. The image classifies it as unexpected.
+
+4
+
+Atorvastatin — mildly elevated liver enzymes
+
+Non-serious
+
+Unexpected*
+
+Usually non-serious when mild and without clinically significant liver injury. Follow-up testing and clinical assessment may be necessary.
+
+5
+
+Levofloxacin — tendon rupture
+
+Serious
+
+Unexpected*
+
+May cause significant disability and require intervention. Seriousness depends on the clinical circumstances and outcome.
+
+*The expectedness labels for atorvastatin and levofloxacin are inferred from the partially obscured cells in the screenshot. They should be checked against the original table and the applicable product information before being treated as verified facts.
+
+2. Definitions and classification rules
+According to ICH E2A and established pharmacovigilance principles, the classifications are based on the following criteria. 
+
+ICH Database
++1
+
+A. Serious versus non-serious
+A reaction is serious if it results in any of the following:
+
+Death.
+
+A life-threatening condition.
+
+Initial or prolonged inpatient hospitalization.
+
+Persistent or significant disability or incapacity.
+
+A congenital anomaly or birth defect.
+
+Another medically important event that requires intervention to prevent a serious outcome.
+
+A reaction is non-serious when none of these criteria is met.
+
+B. Expected versus unexpected
+Expected: The reaction's nature and severity are consistent with the applicable reference safety information, such as the approved product label.
+
+Unexpected: The reaction's nature or severity is inconsistent with that information, including a more severe or specific manifestation than previously documented.
+
+Expectedness cannot be determined solely by how common or uncommon a reaction seems. It must be checked against the relevant product information.
+
+C. Severity versus seriousness
+Severity describes the intensity of a reaction, whereas seriousness is a regulatory classification based on outcomes and specified medical criteria. For example, a mild laboratory abnormality may be non-serious, while a reaction of moderate apparent intensity may still be serious if it results in hospitalization.
+
+3. Summary of case classification
+Based on the classifications displayed or inferred from the screenshot:
+
+Total cases
+
+5
+Serious
+
+3
+Non-serious
+
+2
+Serious: 60%
+
+Non-serious: 40%
+
+The image's summary is consistent with three serious cases (ibuprofen, metformin, and levofloxacin) and two non-serious cases (amoxicillin and atorvastatin).
+
+The expectedness distribution cannot be independently confirmed from the screenshot because two cells are partially hidden, and the video transcript was unavailable.
+
+4. Recommended pharmacovigilance actions
+Case
+
+Recommended action
+
+Amoxicillin
+
+Document the reaction, assess allergy symptoms, and provide appropriate clinical follow-up.
+
+Ibuprofen
+
+Urgently manage gastrointestinal bleeding, document the hospitalization, and report the suspected ADR according to applicable requirements.
+
+Metformin
+
+Arrange emergency assessment and treatment for suspected lactic acidosis, document contributing factors, and report the suspected ADR.
+
+Atorvastatin
+
+Review liver function results, symptoms, and relevant medical history; determine whether further investigation or treatment changes are needed.
+
+Levofloxacin
+
+Assess and manage the tendon injury promptly, document functional consequences, and report the suspected ADR as required.
+
+For every case, the reporter should record the suspected drug, reaction, onset and outcome, relevant medical history, concomitant medications, and evidence supporting causality. Regulatory reporting obligations depend on the jurisdiction, setting, and applicable reporting criteria.
